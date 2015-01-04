@@ -52,3 +52,9 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# c code
+*.obj
+
+# any db files
+db.*
